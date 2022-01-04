@@ -30,7 +30,12 @@ h3 {
 }
 
 a {
-  color: #11999E;
+  color: #C400FF;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  color: #30e3cb;
 }
 
 p {
@@ -49,6 +54,11 @@ p {
 .middlecontainer {
   margin: 100px auto;
   text-align: center;
+}
+.rage {
+  color: #93329E;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 .top-cloud {
